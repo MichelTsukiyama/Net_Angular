@@ -1299,11 +1299,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miche\\Documents\\Cursos-Projetos\\Seja-Full-Stack-Angular-NET\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+      "projectUniqueName": "C:\\Users\\miche\\Desktop\\Curso\\Net_Angular\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
       "projectName": "ProEventos.API",
-      "projectPath": "C:\\Users\\miche\\Documents\\Cursos-Projetos\\Seja-Full-Stack-Angular-NET\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+      "projectPath": "C:\\Users\\miche\\Desktop\\Curso\\Net_Angular\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
       "packagesPath": "C:\\Users\\miche\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\miche\\Documents\\Cursos-Projetos\\Seja-Full-Stack-Angular-NET\\ProEventos\\Back\\src\\ProEventos.API\\obj\\",
+      "outputPath": "C:\\Users\\miche\\Desktop\\Curso\\Net_Angular\\Back\\src\\ProEventos.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1318,7 +1318,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
